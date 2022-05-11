@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajay-kgp
-- 👀 I’m interested in SDE/Product/Data
-- 🌱 I’m currently working as intern at Citymall 
+- 👀 Trying to make web a better place
+- 🌱 Currently building some great tech at CityMall
 - 📫 How to reach me- ajaj.yadav@citymall.live, ajajaj2807@gmail.com
 
 <!---
